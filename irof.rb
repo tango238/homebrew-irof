@@ -9,7 +9,7 @@ class Irof < Formula
   #sha1 'ca0ec4a469f998c79ad3c113dd81359080fdc8dc'
 
   def install
-    bin.install_symlink ['irof']
+    bin.install ['irof']
   end
 
   def test

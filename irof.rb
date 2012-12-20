@@ -5,7 +5,7 @@ require 'formula'
 
 class Irof < Formula
   homepage ''
-  url 'https://gist.github.com/4345634/download'
+  url 'https://github.com/tango238/homebrew-irof/blob/master/irof-1.0.tar.gz'
   version '1.0'
   #sha1 '8a54ad5dfb48de86cec4e84a80bf035a4b9d050c'
 

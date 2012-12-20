@@ -5,12 +5,10 @@ require 'formula'
 
 class Irof < Formula
   homepage ''
-  url 'https://github.com/tango238/homebrew-irof/tarball/master/irof-1.0.tar.gz'
-  version '1.0'
-  #sha1 '8a54ad5dfb48de86cec4e84a80bf035a4b9d050c'
+  url 'https://github.com/tango238/homebrew-irof/tarball/master'
+  sha1 'ca0ec4a469f998c79ad3c113dd81359080fdc8dc'
 
   def install
-    system "cp #{prefix}/irof /usr/local/bin"
   end
 
   def test

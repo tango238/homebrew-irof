@@ -10,6 +10,7 @@ class Irof < Formula
 
   def install
     bin.install ['irof']
+    system "chmod 755 /usr/local/Cellar/irof/0/bin/irof"
   end
 
   def test

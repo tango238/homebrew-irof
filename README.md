@@ -1,4 +1,4 @@
 homebrew-irof
 =============
 
-irof command
+READMEもう少し
